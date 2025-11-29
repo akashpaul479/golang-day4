@@ -1,7 +1,7 @@
 package main
 
 import (
-	"day4/project2"
+	"day4/project3"
 )
 
 func main() {
@@ -14,5 +14,6 @@ func main() {
 	// day4.Json1()
 	// day4.Json2()
 	// project.StudentProject()
-	project2.StudentProject()
+	// project2.StudentProject()
+	project3.Projects3()
 }

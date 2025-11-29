@@ -3,5 +3,15 @@
   "name": "akash",
   "age": 20,
   "grade": "A"
+ },
+ {
+  "name": "akash",
+  "age": 20,
+  "grade": "A"
+ },
+ {
+  "name": "Bunty",
+  "age": 20,
+  "grade": "B"
  }
 ]
